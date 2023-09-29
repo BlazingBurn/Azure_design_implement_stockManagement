@@ -14,8 +14,6 @@ Afin de réaliser ce projet nous allons passer par plusieurs étape :
 Cette documentation décrit le principe d’un projet d’entreprise et comment une petite partie simple du projet a été mise en place.
 
 
-
-
 ## Analyse du sujet
 
 Le sujet choisi est le suivant : “la gestion de l'inventaire”. Un des problèmes pourrait être le suivant : "Une entreprise X gère un grand inventaire de produits, y compris des articles de vente au détail, des matières premières et des équipements. Cependant, elle éprouve des difficultés dans la gestion efficace de son inventaire, ce qui entraîne des problèmes tels que des ruptures de stock, des coûts de stockage élevés et une mauvaise visibilité sur les niveaux d'inventaire actuels. L'entreprise souhaite mettre en place un système de gestion de l'inventaire qui résolve ces problèmes."
@@ -184,7 +182,10 @@ Creation des tables dans Azure Data Studio :
 
 ![CreateTableSql](https://github.com/BlazingBurn/Azure_design_implement_stockManagement/assets/49305403/f875f090-eb3e-4546-b6ba-9b42c5da3a38)
 
+## Lien
 
-## Authors
+https://stockmanagement-deploy.azurewebsites.net/
+
+## Auteurs
 
 - [@BlazingBurn](https://www.github.com/BlazingBurn)
