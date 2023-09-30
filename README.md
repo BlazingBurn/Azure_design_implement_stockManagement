@@ -141,11 +141,11 @@ CMD [ "python3", "-m", "flask", "run", "--host=0.0.0.0" ]
 
 commande utilisé :
 
-docker build -t stockmanagement .
-docker images
-docker tag stockmanagement testdockerhelloworldh3.azurecr.io/stockmanagement:latest
-docker login testdockerhelloworldh3.azurecr.io
-docker push testdockerhelloworldh3.azurecr.io/stockmanagement
+    docker build -t stockmanagement .
+    docker images
+    docker tag stockmanagement testdockerhelloworldh3.azurecr.io/stockmanagement:latest
+    docker login testdockerhelloworldh3.azurecr.io
+    docker push testdockerhelloworldh3.azurecr.io/stockmanagement
 
 
 Image du déploiement sur Azure container :
