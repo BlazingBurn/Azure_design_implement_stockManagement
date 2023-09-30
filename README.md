@@ -13,6 +13,9 @@ Afin de réaliser ce projet nous allons passer par plusieurs étape :
 
 Cette documentation décrit le principe d’un projet d’entreprise et comment une petite partie simple du projet a été mise en place.
 
+## Lien
+
+https://stockmanagement-deploy.azurewebsites.net/
 
 ## Analyse du sujet
 
@@ -182,9 +185,9 @@ Creation des tables dans Azure Data Studio :
 
 ![CreateTableSql](https://github.com/BlazingBurn/Azure_design_implement_stockManagement/assets/49305403/f875f090-eb3e-4546-b6ba-9b42c5da3a38)
 
-## Lien
+### 3 - Azure Function
 
-https://stockmanagement-deploy.azurewebsites.net/
+Déployer pour remplacer les calls back-end CRUD a la BDD.
 
 ## Auteurs
 
